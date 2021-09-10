@@ -5,7 +5,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Chi Hung SUM 300858503</Text>
+      <Text>Chi Hung SUM</Text>
+      <Text>300858503</Text>
       <StatusBar style="auto" />
     </View>
   );
